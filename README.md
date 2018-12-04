@@ -1,2 +1,2 @@
 # PathwayDesign
-Tools for metabolic pathway design.
+Tools for learning metabolic pathway design.
